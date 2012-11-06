@@ -1,0 +1,39 @@
+body{
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;	
+	font-size:13px;
+	padding:30px;
+}
+a{
+	color:#900;
+}
+h1{
+	font-size:25px;
+	font-weight:bold;
+	margin-top:0px;
+}
+h2{
+	font-size:18px;
+	font-weight:bold;
+	margin-top:0px;
+}
+#map {
+	height: 450px;
+	width: 800px;
+}
+#left{
+	float:left;	
+}
+#side {
+	width: 350px;
+	margin-left: 20px;
+	float:left;
+}
+.number{
+	float:left;	
+	font-weight:bold;
+	margin-right:10px;
+}
+.event{
+	float:left;	
+}
+
